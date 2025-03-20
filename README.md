@@ -4,7 +4,7 @@
 MedExtract ICD is an NLP-powered tool that automates medical coding by extracting conditions from clinical text and mapping them to ICD-10 codes. Using the en_ner_bc5cdr_md model and UMLS APIs, it ensures accurate mapping while reducing manual errors and speeding up the coding process. With a Streamlit-based interface, users can upload documents in TXT, PDF, or DOCX formats for efficient processing. This tool benefits healthcare professionals, coders, insurers, and researchers by improving coding accuracy, compliance, and operational efficiency. Future enhancements may include multi-language support and EHR integration.
 
 # Feature
-### Automated Medical Condition Extraction: Leverages the en_ner_bc5cdr_md NLP model to automatically identify diseases and disorders from clinical text, reducing manual coding effort.
+### Automated Medical Condition Extraction ###: Leverages the en_ner_bc5cdr_md NLP model to automatically identify diseases and disorders from clinical text, reducing manual coding effort.
 
 ### ICD-10 Mapping: Uses the UMLS API to map extracted medical conditions to corresponding ICD-10 codes in real-time, ensuring accurate and standardized medical coding.
 
