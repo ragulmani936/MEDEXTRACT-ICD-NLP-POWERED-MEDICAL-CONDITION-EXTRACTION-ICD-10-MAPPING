@@ -20,3 +20,8 @@ Built with Streamlit, providing an intuitive and interactive interface for healt
 Automatically processes clinical data and provides real-time ICD-10 code mapping, eliminating the need for manual lookup and interpretation.
 
 # Reuirements
+### Hardware Rewuirements
+1. Processor : Pentium Dual Core 2.00GH
+2. Hard disk : 120 GB
+3. RAM : 2GB (minimum)
+4. Keyboard : 110 keys enhanced
