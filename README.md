@@ -25,3 +25,8 @@ Automatically processes clinical data and provides real-time ICD-10 code mapping
 2. Hard disk : 120 GB
 3. RAM : 2GB (minimum)
 4. Keyboard : 110 keys enhanced
+
+### Software Requirements
+1. Operating system : Windows7 (with service pack 1), 8, 8.1 ,10 and 11
+2. Language : Python
+3. PyCharm (Latest Version) , Visual Studio Code
