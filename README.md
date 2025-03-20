@@ -30,3 +30,7 @@ Automatically processes clinical data and provides real-time ICD-10 code mapping
 1. Operating system : Windows7 (with service pack 1), 8, 8.1 ,10 and 11
 2. Language : Python
 3. PyCharm (Latest Version) , Visual Studio Code
+
+# Flow Diagram
+![flow de](https://github.com/user-attachments/assets/4064fa89-2b5c-4da8-93bb-fd89772ecf35)
+
